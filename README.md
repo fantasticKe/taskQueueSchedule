@@ -1,0 +1,2 @@
+# taskQueueSchedule
+自动化任务调度与rabbitmq整合
